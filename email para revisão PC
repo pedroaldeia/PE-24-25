@@ -1,0 +1,18 @@
+Boa tarde, 
+
+Com este mail solicito a revisão do meu Projeto Computacional no âmbito da disciplina de Probalilidades e Estatística.
+
+-nome: Pedro de Figueiredo e Sousa Aldeia
+-número: ist1109989
+-curso: LEIC-A
+
+Abaixo seguem as perguntas a serem revistas e o motivo.
+
+Exercício 6:
+A diferença no resultado deve-se apenas ao facto de eu criar uma matriz para a amostra dos valores, mas a tabela é preenchida por colunas em vez de linhas (os valores da amostra resultam da utilização da função runif() com a seed pedida). No entanto, a lógica é a mesma, os passos de cálculos são os mesmos, o que difere é a ordem dos valores da amostra na matriz, pois a resolução da correção seria equivalente ao preenchimento dessa matriz por linhas, até é fácil testar este caso, basta meter dentro da função matrix() o valor byrow = TRUE  e resulta n valor pretendido inicialmente. Acho que a minha resolução está certa porque a resposta não deveria depender da ordem em que vamos buscar os valores à seed.
+
+Exercício 9:
+O meu argumento para o exercício 6 é o mesmo para este exercício. De novo, a única coisa que não é equivalente entre a minha resolução e a resolução na correção é o facto de eu preencher os valores da amostra por coluna e não por linha, sendo que a resolução da correção seria equivalente a preencher a matriz por linhas. Metendo byrow = TRUE no preenchimento da matriz, os valor final é igual ao da correção utilizando a minha resolução. Na minha opinião, a resolução está correta porque o raciocínio é igual, a diferença no resultado deve-se apenas à ordem em que os valores amostra são obtidos e utilizados, que eu acho que não devia ser um fator de avaliação.
+
+Muito obrigado pela atenção e paciência, 
+Pedro
