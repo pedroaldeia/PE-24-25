@@ -10,3 +10,5 @@
 ### Exercise 8: [Solution](https://github.com/pedroaldeia/PE-24-25/blob/master/Exercicio%208/Exercicio_8_PC.R)
 ### Exercise 9: [Solution](https://github.com/pedroaldeia/PE-24-25/blob/master/Exercicio%209/Exercicio_9_PC.R)
 ### Exercise 10: [Solution](https://github.com/pedroaldeia/PE-24-25/blob/master/Exercicio%2010/Exercicio_10_PC.R)
+---
+These exercises were developed in the scope of the Probabilities and Statisctics class at Instituto Superior Tecnico in 2024/2025.
